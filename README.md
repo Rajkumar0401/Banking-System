@@ -1,2 +1,2 @@
 # Banking System
-it is command line banking system which manages person  bank account offer services fetching balances,withdrawing,depositing
+it is command line banking system which create, manages person  bank account offer services like fetching balances,withdrawing,depositing,transfer fund one account to another through object communication.
