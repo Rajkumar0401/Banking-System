@@ -1,5 +1,5 @@
 # Banking System
-<<<<<<< HEAD
+>>>>> HEAD
 it is command line banking system which manages person  bank account offer services fetching balances,withdrawing,depositing
 
 Core concept use - Object Oriented programming
@@ -12,4 +12,4 @@ key features:
 
 =======
 it is command line banking system which create, manages person  bank account offer services like fetching balances,withdrawing,depositing,transfer fund one account to another through object communication.
->>>>>>> e27b982d67449e0e5b18b40a1167da4d2f40429e
+
